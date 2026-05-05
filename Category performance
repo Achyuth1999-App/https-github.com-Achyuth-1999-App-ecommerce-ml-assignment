@@ -1,0 +1,7 @@
+df = pd.read_csv("data.csv")
+
+category_perf = df.groupby("Category")["Revenue"].sum().sort_values()
+
+category_perf.plot(kind='barh')
+plt.title("Category Performance")
+plt.show()
