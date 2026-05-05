@@ -88,72 +88,7 @@ Past search
 
 If you mean “past search in e-commerce”, you’re likely referring to how search functionality in online shopping has evolved over time. Here’s a clear explanation you can use:
 
-🔍 Past Search in E-Commerce (Evolution)
-1. Basic Keyword Search (1990s–Early 2000s)
-Early e-commerce sites like Amazon and eBay had very simple search.
 
-Users typed exact product names.
-
-Results were:
-
-Not accurate
-
-No filters
-
-No suggestions
-
-👉 Example: Typing “phone” → random list of items
-
-2. Filter & Category-Based Search (2000s)
-Websites improved search with:
-
-Filters (price, brand, category)
-
-Sorting (low to high, popularity)
-
-Helped users narrow results quickly.
-
-👉 Example: Search “laptop” → filter by price, RAM, brand
-
-3. Smart Search (2010s)
-Introduction of:
-
-Auto-suggestions
-
-Spell correction
-
-Search history
-
-Platforms like:
-
-Google influenced better search behavior
-
-Amazon improved product ranking using data
-
-👉 Example: Typing “iph” → suggests “iPhone”
-
-4. AI-Based Search (Modern Era)
-Today’s search uses:
-
-Artificial Intelligence
-
-Machine Learning
-
-User behavior tracking
-
-Features include:
-
-Personalized results
-
-Voice search
-
-Image search
-
-Apps like:
-
-Amazon App
-
-Flipkart
 
 👉 Example: You search “shoes” → results based on your past activity
 
@@ -259,11 +194,8 @@ Number of columns (not just rows)
 
 Define classification target clearly (e.g., High/Low customer value threshold)
 
-Expand methodology (step-by-step)
 
-Mention tools: Python, Pandas, Scikit-learn, Matplotlib
 
-✨ Improved Version (Use This in Your PDF)
 📌 Project Title
 E-Commerce Marketing and Product Performance Analysis Using Machine Learning
 
